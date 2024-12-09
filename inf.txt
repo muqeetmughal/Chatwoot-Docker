@@ -1,0 +1,9 @@
+Commands to run the project:
+
+
+
+1-:
+docker compose run --rm rails bundle exec rails db:chatwoot_prepare
+
+2-:
+docker compose up -d
